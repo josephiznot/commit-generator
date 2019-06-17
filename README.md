@@ -25,23 +25,21 @@ execute as often as you assign it.
 
 ## Prerequesites
 1. Git installed.
-Be sure you have Git installed on your machine. If you are unsure,
-run the following command in your terminal to check.
+    * Be sure you have Git installed on your machine. If you are unsure,
+    run the following command in your terminal to check.
 ```bash
 git --version
 ```
 2. Node installed.
-Be sure you have Node installed on your machine. If you are unsure,
-run the following command in your terminal to check.
+    * If you have Node installed, then go download Node [here](https://nodejs.org/en/).
+    If you are unsure, run the following command in your terminal to check.
 ```bash
 node --version
 ```
-If you have Node installed, you will see the latest version of Node on your
-computer. If you do not see the version number then go download Node [here](https://nodejs.org/en/).
 3. AWS account.
-If you do not have an AWS account, [create one](https://portal.aws.amazon.com/billing/signup#/start).
-Aftewards make sure you create
-an [Admin IAM user](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)
+    * If you do not have an AWS account, [create one](https://portal.aws.amazon.com/billing/signup#/start).
+    Aftewards make sure you create
+    an [Admin IAM user](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)
 
 ## Getting started
 1. Fork repository
